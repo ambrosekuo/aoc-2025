@@ -1,0 +1,1 @@
+Attempting aoc 2025, prob will just be python.
